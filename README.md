@@ -1,1 +1,1 @@
-# react-clickyGame
+# react-clicky-game

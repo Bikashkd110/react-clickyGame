@@ -1,0 +1,52 @@
+
+
+ul {
+    width: 100%;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+body {
+    font-size: 35px;
+}
+
+.navbar {
+    background: rgb(155, 45, 45);
+    padding-right: 10px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.navbar li {
+    display: inline-block;
+}
+  
+nav{
+      width: auto;
+}
+
+
+
+.title {
+    width: auto;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 0px;
+}
+  
+.message{
+    width: auto;
+    color:white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+.scores {
+
+padding-right: 10px;
+font-family: 'Times New Roman', Times, serif;
+width: auto;
+color:White;
+font-style: bold;
+
+}
